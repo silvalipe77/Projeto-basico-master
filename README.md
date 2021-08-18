@@ -1,2 +1,2 @@
 # Projeto-basico-master
-Projeto para aprender a trabalhar juntos , entr alexoliveira-ipira e silvalipe77
+Projeto para aprender a trabalhar juntos , entre alexoliveira-ipira e silvalipe77
