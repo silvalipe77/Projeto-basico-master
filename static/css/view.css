@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .header-container {
+    display: flex;
+    background: #617aa0;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 1000px;
+    height: 50px;
+    color: white;
+  }
+  .tabela {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background: #81a4cf;
+    height: 100px;
+  }
+  
+  .conteudo {
+    display: flex;
+    color: black;
+    width: 1000px;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  .acao a {
+    margin: 0 auto;
+  }
+  
+  .conteudo p {
+    margin-left: 90px;
+  }
+  
